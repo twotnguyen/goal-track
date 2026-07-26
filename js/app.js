@@ -197,18 +197,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
         return `
             <div class="compact-match-item">
-                <div class="cm-left">
+                <div class="cm-left" style="flex: 1; min-width: 0;">
                     <div class="cm-stage">${stageDisplay}</div>
-                    <div class="cm-team">
-                        ${homeFlagHTML}
-                        <span class="cm-team-name">${homeTeamName}</span>
+                    <div class="cm-team" style="justify-content: space-between; width: 100%; display: flex; align-items: center; margin-bottom: 0.25rem;">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; min-width: 0; flex: 1;">
+                            ${homeFlagHTML}
+                            <span class="cm-team-name" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${homeTeamName}</span>
+                        </div>
+                        ${match.status === 'finished' ? `<span class="cm-score" style="font-weight: 700; color: #fff; font-size: 1rem; font-variant-numeric: tabular-nums; margin-left: 1rem; flex-shrink: 0;">${match.home_score}</span>` : ''}
                     </div>
-                    <div class="cm-team">
-                        ${awayFlagHTML}
-                        <span class="cm-team-name">${awayTeamName}</span>
+                    <div class="cm-team" style="justify-content: space-between; width: 100%; display: flex; align-items: center;">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; min-width: 0; flex: 1;">
+                            ${awayFlagHTML}
+                            <span class="cm-team-name" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${awayTeamName}</span>
+                        </div>
+                        ${match.status === 'finished' ? `<span class="cm-score" style="font-weight: 700; color: #fff; font-size: 1rem; font-variant-numeric: tabular-nums; margin-left: 1rem; flex-shrink: 0;">${match.away_score}</span>` : ''}
                     </div>
                 </div>
-                <div class="cm-right" style="justify-content: center;">
+                <div class="cm-right" style="justify-content: center; margin-left: 1.5rem; flex-shrink: 0;">
                     <div class="cm-day">${formatRelativeDay(match.date)}</div>
                     <div class="cm-time" style="margin-bottom: 0;">${formatTime(match.date)}</div>
                 </div>
