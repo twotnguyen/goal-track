@@ -614,3 +614,59 @@ footer a:hover {
 .btn-more:hover {
     background: #3f3f4e;
 }
+
+/* Champion Banner Styling */
+.champion-banner {
+    background: linear-gradient(135deg, #bf953f 0%, #fcf6ba 25%, #b38728 50%, #fbf5b7 75%, #aa771c 100%);
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    box-shadow: 0 10px 25px rgba(191, 149, 63, 0.25);
+    color: #1a1a1a;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.champion-cup {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+    animation: cupPulse 2.5s infinite ease-in-out;
+    display: inline-block;
+}
+
+.champion-title {
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin: 0 0 0.5rem 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #111;
+}
+
+.champion-subtitle {
+    font-size: 1.1rem;
+    margin: 0;
+    opacity: 0.9;
+    font-weight: 600;
+    color: #222;
+}
+
+@keyframes cupPulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.15) rotate(5deg); }
+    100% { transform: scale(1); }
+}
+
+@media (max-width: 768px) {
+    .champion-banner {
+        padding: 1.5rem 1rem;
+    }
+    .champion-title {
+        font-size: 1.4rem;
+    }
+    .champion-subtitle {
+        font-size: 0.95rem;
+    }
+}
