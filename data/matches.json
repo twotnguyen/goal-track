@@ -11,29 +11,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "https://sv1.tieulamwc.net/truc-tiep/mexico-vs-england-6ypq3nhvnkdzmd7"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-11T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/16.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1531.png?v=1",
     "home_flag_local": "img/flags/Mexico.png",
-    "away_flag_local": "img/flags/Nam_Phi.png"
+    "away_flag_local": "img/flags/Nam_Phi.png",
+    "group": "Bảng A"
   },
   {
     "id": "2",
@@ -47,34 +44,31 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-11T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/17.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/770.png?v=1",
     "home_flag_local": "img/flags/H_n_Qu_c.png",
-    "away_flag_local": "img/flags/CH_Czech.png"
+    "away_flag_local": "img/flags/CH_Czech.png",
+    "group": "Bảng A"
   },
   {
     "id": "3",
     "home_team": "Canada",
-    "away_team": "Bosnia & Herz.",
+    "away_team": "Bosnia &amp; Herz.",
     "stage": "Vòng đấu bảng",
     "status": "finished",
     "home_score": 1,
@@ -83,29 +77,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-12T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/5529.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1113.png?v=1",
     "home_flag_local": "img/flags/Canada.png",
-    "away_flag_local": "img/flags/Bosnia__amp__Herz_.png"
+    "away_flag_local": "img/flags/Bosnia_ampamp;_Herz..png",
+    "group": "Bảng A"
   },
   {
     "id": "4",
@@ -119,29 +110,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-12T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2384.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2380.png?v=1",
     "home_flag_local": "img/flags/M_.png",
-    "away_flag_local": "img/flags/Paraguay.png"
+    "away_flag_local": "img/flags/Paraguay.png",
+    "group": "Bảng A"
   },
   {
     "id": "5",
@@ -155,29 +143,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-13T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1569.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/15.png?v=1",
     "home_flag_local": "img/flags/Qatar.png",
-    "away_flag_local": "img/flags/Th_y_S_.png"
+    "away_flag_local": "img/flags/Th_y_S_.png",
+    "group": "Bảng A"
   },
   {
     "id": "6",
@@ -191,29 +176,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "https://sv1.tieulamwc.net/truc-tiep/brazil-vs-norway-8yomo4h14yjkq0j"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-13T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/6.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/31.png?v=1",
     "home_flag_local": "img/flags/Brazil.png",
-    "away_flag_local": "img/flags/Morocco.png"
+    "away_flag_local": "img/flags/Morocco.png",
+    "group": "Bảng A"
   },
   {
     "id": "7",
@@ -227,29 +209,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-13T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2386.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1108.png?v=1",
     "home_flag_local": "img/flags/Haiti.png",
-    "away_flag_local": "img/flags/Scotland.png"
+    "away_flag_local": "img/flags/Scotland.png",
+    "group": "Bảng B"
   },
   {
     "id": "8",
@@ -263,29 +242,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-13T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/20.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/777.png?v=1",
     "home_flag_local": "img/flags/Australia.png",
-    "away_flag_local": "img/flags/Th__Nh__K_.png"
+    "away_flag_local": "img/flags/Th__Nh__K_.png",
+    "group": "Bảng B"
   },
   {
     "id": "9",
@@ -299,29 +275,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-14T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/25.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/5530.png?v=1",
     "home_flag_local": "img/flags/__c.png",
-    "away_flag_local": "img/flags/Cura_ao.png"
+    "away_flag_local": "img/flags/Cura_ao.png",
+    "group": "Bảng B"
   },
   {
     "id": "10",
@@ -335,29 +308,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-14T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1118.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/12.png?v=1",
     "home_flag_local": "img/flags/H__Lan.png",
-    "away_flag_local": "img/flags/Nh_t_B_n.png"
+    "away_flag_local": "img/flags/Nh_t_B_n.png",
+    "group": "Bảng B"
   },
   {
     "id": "11",
@@ -371,29 +341,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-14T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1501.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2382.png?v=1",
     "home_flag_local": "img/flags/B__Bi_n_Ng_.png",
-    "away_flag_local": "img/flags/Ecuador.png"
+    "away_flag_local": "img/flags/Ecuador.png",
+    "group": "Bảng B"
   },
   {
     "id": "12",
@@ -407,29 +374,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-14T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/5.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/28.png?v=1",
     "home_flag_local": "img/flags/Th_y__i_n.png",
-    "away_flag_local": "img/flags/Tunisia.png"
+    "away_flag_local": "img/flags/Tunisia.png",
+    "group": "Bảng B"
   },
   {
     "id": "13",
@@ -443,29 +407,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-14T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/9.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1533.png?v=1",
     "home_flag_local": "img/flags/T_y_Ban_Nha.png",
-    "away_flag_local": "img/flags/Cape_Verde.png"
+    "away_flag_local": "img/flags/Cape_Verde.png",
+    "group": "Bảng C"
   },
   {
     "id": "14",
@@ -479,29 +440,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-15T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/32.png?v=1",
     "home_flag_local": "img/flags/B_.png",
-    "away_flag_local": "img/flags/Ai_C_p.png"
+    "away_flag_local": "img/flags/Ai_C_p.png",
+    "group": "Bảng C"
   },
   {
     "id": "15",
@@ -515,29 +473,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-15T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/23.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/7.png?v=1",
     "home_flag_local": "img/flags/Saudi_Arabia.png",
-    "away_flag_local": "img/flags/Uruguay.png"
+    "away_flag_local": "img/flags/Uruguay.png",
+    "group": "Bảng C"
   },
   {
     "id": "16",
@@ -551,29 +506,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-15T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/22.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/4673.png?v=1",
     "home_flag_local": "img/flags/Iran.png",
-    "away_flag_local": "img/flags/New_Zealand.png"
+    "away_flag_local": "img/flags/New_Zealand.png",
+    "group": "Bảng C"
   },
   {
     "id": "17",
@@ -587,29 +539,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-16T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/13.png?v=1",
     "home_flag_local": "img/flags/Ph_p.png",
-    "away_flag_local": "img/flags/Senegal.png"
+    "away_flag_local": "img/flags/Senegal.png",
+    "group": "Bảng C"
   },
   {
     "id": "18",
@@ -623,29 +572,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-16T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1567.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1090.png?v=1",
     "home_flag_local": "img/flags/Iraq.png",
-    "away_flag_local": "img/flags/Na_Uy.png"
+    "away_flag_local": "img/flags/Na_Uy.png",
+    "group": "Bảng C"
   },
   {
     "id": "19",
@@ -659,29 +605,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-16T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/26.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1532.png?v=1",
     "home_flag_local": "img/flags/Argentina.png",
-    "away_flag_local": "img/flags/Algeria.png"
+    "away_flag_local": "img/flags/Algeria.png",
+    "group": "Bảng D"
   },
   {
     "id": "20",
@@ -695,29 +638,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-16T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/775.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1548.png?v=1",
     "home_flag_local": "img/flags/_o.png",
-    "away_flag_local": "img/flags/Jordan.png"
+    "away_flag_local": "img/flags/Jordan.png",
+    "group": "Bảng D"
   },
   {
     "id": "21",
@@ -731,29 +671,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-17T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/27.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1508.png?v=1",
     "home_flag_local": "img/flags/B____o_Nha.png",
-    "away_flag_local": "img/flags/CHDC_Congo.png"
+    "away_flag_local": "img/flags/CHDC_Congo.png",
+    "group": "Bảng D"
   },
   {
     "id": "22",
@@ -767,29 +704,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-17T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/10.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/3.png?v=1",
     "home_flag_local": "img/flags/Anh.png",
-    "away_flag_local": "img/flags/Croatia.png"
+    "away_flag_local": "img/flags/Croatia.png",
+    "group": "Bảng D"
   },
   {
     "id": "23",
@@ -803,29 +737,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-17T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1504.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/11.png?v=1",
     "home_flag_local": "img/flags/Ghana.png",
-    "away_flag_local": "img/flags/Panama.png"
+    "away_flag_local": "img/flags/Panama.png",
+    "group": "Bảng D"
   },
   {
     "id": "24",
@@ -839,29 +770,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-17T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1568.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/8.png?v=1",
     "home_flag_local": "img/flags/Uzbekistan.png",
-    "away_flag_local": "img/flags/Colombia.png"
+    "away_flag_local": "img/flags/Colombia.png",
+    "group": "Bảng D"
   },
   {
     "id": "25",
@@ -875,34 +803,31 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-17T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/770.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1531.png?v=1",
     "home_flag_local": "img/flags/CH_Czech.png",
-    "away_flag_local": "img/flags/Nam_Phi.png"
+    "away_flag_local": "img/flags/Nam_Phi.png",
+    "group": "Bảng E"
   },
   {
     "id": "26",
     "home_team": "Thụy Sĩ",
-    "away_team": "Bosnia & Herz.",
+    "away_team": "Bosnia &amp; Herz.",
     "stage": "Vòng đấu bảng",
     "status": "finished",
     "home_score": 4,
@@ -911,29 +836,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-18T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/15.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1113.png?v=1",
     "home_flag_local": "img/flags/Th_y_S_.png",
-    "away_flag_local": "img/flags/Bosnia__amp__Herz_.png"
+    "away_flag_local": "img/flags/Bosnia_ampamp;_Herz..png",
+    "group": "Bảng E"
   },
   {
     "id": "27",
@@ -947,29 +869,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-18T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/5529.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1569.png?v=1",
     "home_flag_local": "img/flags/Canada.png",
-    "away_flag_local": "img/flags/Qatar.png"
+    "away_flag_local": "img/flags/Qatar.png",
+    "group": "Bảng E"
   },
   {
     "id": "28",
@@ -983,29 +902,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "https://sv1.tieulamwc.net/truc-tiep/mexico-vs-england-6ypq3nhvnkdzmd7"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-18T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/16.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/17.png?v=1",
     "home_flag_local": "img/flags/Mexico.png",
-    "away_flag_local": "img/flags/H_n_Qu_c.png"
+    "away_flag_local": "img/flags/H_n_Qu_c.png",
+    "group": "Bảng E"
   },
   {
     "id": "29",
@@ -1019,29 +935,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-19T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2384.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/20.png?v=1",
     "home_flag_local": "img/flags/M_.png",
-    "away_flag_local": "img/flags/Australia.png"
+    "away_flag_local": "img/flags/Australia.png",
+    "group": "Bảng E"
   },
   {
     "id": "30",
@@ -1055,29 +968,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-19T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1108.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/31.png?v=1",
     "home_flag_local": "img/flags/Scotland.png",
-    "away_flag_local": "img/flags/Morocco.png"
+    "away_flag_local": "img/flags/Morocco.png",
+    "group": "Bảng E"
   },
   {
     "id": "31",
@@ -1091,29 +1001,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "https://sv1.tieulamwc.net/truc-tiep/brazil-vs-norway-8yomo4h14yjkq0j"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-19T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/6.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2386.png?v=1",
     "home_flag_local": "img/flags/Brazil.png",
-    "away_flag_local": "img/flags/Haiti.png"
+    "away_flag_local": "img/flags/Haiti.png",
+    "group": "Bảng F"
   },
   {
     "id": "32",
@@ -1127,29 +1034,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-19T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/777.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2380.png?v=1",
     "home_flag_local": "img/flags/Th__Nh__K_.png",
-    "away_flag_local": "img/flags/Paraguay.png"
+    "away_flag_local": "img/flags/Paraguay.png",
+    "group": "Bảng F"
   },
   {
     "id": "33",
@@ -1163,29 +1067,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-20T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1118.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/5.png?v=1",
     "home_flag_local": "img/flags/H__Lan.png",
-    "away_flag_local": "img/flags/Th_y__i_n.png"
+    "away_flag_local": "img/flags/Th_y__i_n.png",
+    "group": "Bảng F"
   },
   {
     "id": "34",
@@ -1199,29 +1100,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-20T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/25.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1501.png?v=1",
     "home_flag_local": "img/flags/__c.png",
-    "away_flag_local": "img/flags/B__Bi_n_Ng_.png"
+    "away_flag_local": "img/flags/B__Bi_n_Ng_.png",
+    "group": "Bảng F"
   },
   {
     "id": "35",
@@ -1235,29 +1133,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-20T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2382.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/5530.png?v=1",
     "home_flag_local": "img/flags/Ecuador.png",
-    "away_flag_local": "img/flags/Cura_ao.png"
+    "away_flag_local": "img/flags/Cura_ao.png",
+    "group": "Bảng F"
   },
   {
     "id": "36",
@@ -1271,29 +1166,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-20T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/28.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/12.png?v=1",
     "home_flag_local": "img/flags/Tunisia.png",
-    "away_flag_local": "img/flags/Nh_t_B_n.png"
+    "away_flag_local": "img/flags/Nh_t_B_n.png",
+    "group": "Bảng F"
   },
   {
     "id": "37",
@@ -1307,29 +1199,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-20T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/9.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/23.png?v=1",
     "home_flag_local": "img/flags/T_y_Ban_Nha.png",
-    "away_flag_local": "img/flags/Saudi_Arabia.png"
+    "away_flag_local": "img/flags/Saudi_Arabia.png",
+    "group": "Bảng G"
   },
   {
     "id": "38",
@@ -1343,29 +1232,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-21T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/22.png?v=1",
     "home_flag_local": "img/flags/B_.png",
-    "away_flag_local": "img/flags/Iran.png"
+    "away_flag_local": "img/flags/Iran.png",
+    "group": "Bảng G"
   },
   {
     "id": "39",
@@ -1379,29 +1265,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-21T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/7.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1533.png?v=1",
     "home_flag_local": "img/flags/Uruguay.png",
-    "away_flag_local": "img/flags/Cape_Verde.png"
+    "away_flag_local": "img/flags/Cape_Verde.png",
+    "group": "Bảng G"
   },
   {
     "id": "40",
@@ -1415,29 +1298,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-21T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/4673.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/32.png?v=1",
     "home_flag_local": "img/flags/New_Zealand.png",
-    "away_flag_local": "img/flags/Ai_C_p.png"
+    "away_flag_local": "img/flags/Ai_C_p.png",
+    "group": "Bảng G"
   },
   {
     "id": "41",
@@ -1451,29 +1331,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-22T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/26.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/775.png?v=1",
     "home_flag_local": "img/flags/Argentina.png",
-    "away_flag_local": "img/flags/_o.png"
+    "away_flag_local": "img/flags/_o.png",
+    "group": "Bảng G"
   },
   {
     "id": "42",
@@ -1487,29 +1364,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-22T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1567.png?v=1",
     "home_flag_local": "img/flags/Ph_p.png",
-    "away_flag_local": "img/flags/Iraq.png"
+    "away_flag_local": "img/flags/Iraq.png",
+    "group": "Bảng G"
   },
   {
     "id": "43",
@@ -1523,29 +1397,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-22T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1090.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/13.png?v=1",
     "home_flag_local": "img/flags/Na_Uy.png",
-    "away_flag_local": "img/flags/Senegal.png"
+    "away_flag_local": "img/flags/Senegal.png",
+    "group": "Bảng H"
   },
   {
     "id": "44",
@@ -1559,29 +1430,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-22T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1548.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1532.png?v=1",
     "home_flag_local": "img/flags/Jordan.png",
-    "away_flag_local": "img/flags/Algeria.png"
+    "away_flag_local": "img/flags/Algeria.png",
+    "group": "Bảng H"
   },
   {
     "id": "45",
@@ -1595,29 +1463,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-23T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/27.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1568.png?v=1",
     "home_flag_local": "img/flags/B____o_Nha.png",
-    "away_flag_local": "img/flags/Uzbekistan.png"
+    "away_flag_local": "img/flags/Uzbekistan.png",
+    "group": "Bảng H"
   },
   {
     "id": "46",
@@ -1631,29 +1496,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-23T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/10.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1504.png?v=1",
     "home_flag_local": "img/flags/Anh.png",
-    "away_flag_local": "img/flags/Ghana.png"
+    "away_flag_local": "img/flags/Ghana.png",
+    "group": "Bảng H"
   },
   {
     "id": "47",
@@ -1667,29 +1529,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-23T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/11.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/3.png?v=1",
     "home_flag_local": "img/flags/Panama.png",
-    "away_flag_local": "img/flags/Croatia.png"
+    "away_flag_local": "img/flags/Croatia.png",
+    "group": "Bảng H"
   },
   {
     "id": "48",
@@ -1703,29 +1562,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-23T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/8.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1508.png?v=1",
     "home_flag_local": "img/flags/Colombia.png",
-    "away_flag_local": "img/flags/CHDC_Congo.png"
+    "away_flag_local": "img/flags/CHDC_Congo.png",
+    "group": "Bảng H"
   },
   {
     "id": "49",
@@ -1739,33 +1595,30 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-24T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/15.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/5529.png?v=1",
     "home_flag_local": "img/flags/Th_y_S_.png",
-    "away_flag_local": "img/flags/Canada.png"
+    "away_flag_local": "img/flags/Canada.png",
+    "group": "Bảng I"
   },
   {
     "id": "50",
-    "home_team": "Bosnia & Herz.",
+    "home_team": "Bosnia &amp; Herz.",
     "away_team": "Qatar",
     "stage": "Vòng đấu bảng",
     "status": "finished",
@@ -1775,29 +1628,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-24T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1113.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1569.png?v=1",
-    "home_flag_local": "img/flags/Bosnia__amp__Herz_.png",
-    "away_flag_local": "img/flags/Qatar.png"
+    "home_flag_local": "img/flags/Bosnia_ampamp;_Herz..png",
+    "away_flag_local": "img/flags/Qatar.png",
+    "group": "Bảng I"
   },
   {
     "id": "51",
@@ -1811,29 +1661,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-24T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/31.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2386.png?v=1",
     "home_flag_local": "img/flags/Morocco.png",
-    "away_flag_local": "img/flags/Haiti.png"
+    "away_flag_local": "img/flags/Haiti.png",
+    "group": "Bảng I"
   },
   {
     "id": "52",
@@ -1847,29 +1694,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-24T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1108.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/6.png?v=1",
     "home_flag_local": "img/flags/Scotland.png",
-    "away_flag_local": "img/flags/Brazil.png"
+    "away_flag_local": "img/flags/Brazil.png",
+    "group": "Bảng I"
   },
   {
     "id": "53",
@@ -1883,29 +1727,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-24T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/770.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/16.png?v=1",
     "home_flag_local": "img/flags/CH_Czech.png",
-    "away_flag_local": "img/flags/Mexico.png"
+    "away_flag_local": "img/flags/Mexico.png",
+    "group": "Bảng I"
   },
   {
     "id": "54",
@@ -1919,29 +1760,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-24T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1531.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/17.png?v=1",
     "home_flag_local": "img/flags/Nam_Phi.png",
-    "away_flag_local": "img/flags/H_n_Qu_c.png"
+    "away_flag_local": "img/flags/H_n_Qu_c.png",
+    "group": "Bảng I"
   },
   {
     "id": "55",
@@ -1955,29 +1793,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-25T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2382.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/25.png?v=1",
     "home_flag_local": "img/flags/Ecuador.png",
-    "away_flag_local": "img/flags/__c.png"
+    "away_flag_local": "img/flags/__c.png",
+    "group": "Bảng J"
   },
   {
     "id": "56",
@@ -1991,29 +1826,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-25T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/5530.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1501.png?v=1",
     "home_flag_local": "img/flags/Cura_ao.png",
-    "away_flag_local": "img/flags/B__Bi_n_Ng_.png"
+    "away_flag_local": "img/flags/B__Bi_n_Ng_.png",
+    "group": "Bảng J"
   },
   {
     "id": "57",
@@ -2027,29 +1859,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-25T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/12.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/5.png?v=1",
     "home_flag_local": "img/flags/Nh_t_B_n.png",
-    "away_flag_local": "img/flags/Th_y__i_n.png"
+    "away_flag_local": "img/flags/Th_y__i_n.png",
+    "group": "Bảng J"
   },
   {
     "id": "58",
@@ -2063,29 +1892,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-25T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/28.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1118.png?v=1",
     "home_flag_local": "img/flags/Tunisia.png",
-    "away_flag_local": "img/flags/H__Lan.png"
+    "away_flag_local": "img/flags/H__Lan.png",
+    "group": "Bảng J"
   },
   {
     "id": "59",
@@ -2099,29 +1925,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-25T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/777.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2384.png?v=1",
     "home_flag_local": "img/flags/Th__Nh__K_.png",
-    "away_flag_local": "img/flags/M_.png"
+    "away_flag_local": "img/flags/M_.png",
+    "group": "Bảng J"
   },
   {
     "id": "60",
@@ -2135,29 +1958,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-25T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2380.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/20.png?v=1",
     "home_flag_local": "img/flags/Paraguay.png",
-    "away_flag_local": "img/flags/Australia.png"
+    "away_flag_local": "img/flags/Australia.png",
+    "group": "Bảng J"
   },
   {
     "id": "61",
@@ -2171,29 +1991,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-26T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/13.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1567.png?v=1",
     "home_flag_local": "img/flags/Senegal.png",
-    "away_flag_local": "img/flags/Iraq.png"
+    "away_flag_local": "img/flags/Iraq.png",
+    "group": "Bảng K"
   },
   {
     "id": "62",
@@ -2207,29 +2024,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-26T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1090.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2.png?v=1",
     "home_flag_local": "img/flags/Na_Uy.png",
-    "away_flag_local": "img/flags/Ph_p.png"
+    "away_flag_local": "img/flags/Ph_p.png",
+    "group": "Bảng K"
   },
   {
     "id": "63",
@@ -2243,29 +2057,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-26T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/7.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/9.png?v=1",
     "home_flag_local": "img/flags/Uruguay.png",
-    "away_flag_local": "img/flags/T_y_Ban_Nha.png"
+    "away_flag_local": "img/flags/T_y_Ban_Nha.png",
+    "group": "Bảng K"
   },
   {
     "id": "64",
@@ -2279,29 +2090,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-26T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1533.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/23.png?v=1",
     "home_flag_local": "img/flags/Cape_Verde.png",
-    "away_flag_local": "img/flags/Saudi_Arabia.png"
+    "away_flag_local": "img/flags/Saudi_Arabia.png",
+    "group": "Bảng K"
   },
   {
     "id": "65",
@@ -2315,29 +2123,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-26T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/32.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/22.png?v=1",
     "home_flag_local": "img/flags/Ai_C_p.png",
-    "away_flag_local": "img/flags/Iran.png"
+    "away_flag_local": "img/flags/Iran.png",
+    "group": "Bảng K"
   },
   {
     "id": "66",
@@ -2351,29 +2156,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-26T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/4673.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1.png?v=1",
     "home_flag_local": "img/flags/New_Zealand.png",
-    "away_flag_local": "img/flags/B_.png"
+    "away_flag_local": "img/flags/B_.png",
+    "group": "Bảng K"
   },
   {
     "id": "67",
@@ -2387,29 +2189,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-27T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/3.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1504.png?v=1",
     "home_flag_local": "img/flags/Croatia.png",
-    "away_flag_local": "img/flags/Ghana.png"
+    "away_flag_local": "img/flags/Ghana.png",
+    "group": "Bảng L"
   },
   {
     "id": "68",
@@ -2423,29 +2222,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-27T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/11.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/10.png?v=1",
     "home_flag_local": "img/flags/Panama.png",
-    "away_flag_local": "img/flags/Anh.png"
+    "away_flag_local": "img/flags/Anh.png",
+    "group": "Bảng L"
   },
   {
     "id": "69",
@@ -2459,29 +2255,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-27T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/8.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/27.png?v=1",
     "home_flag_local": "img/flags/Colombia.png",
-    "away_flag_local": "img/flags/B____o_Nha.png"
+    "away_flag_local": "img/flags/B____o_Nha.png",
+    "group": "Bảng L"
   },
   {
     "id": "70",
@@ -2495,29 +2288,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-27T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1508.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1568.png?v=1",
     "home_flag_local": "img/flags/CHDC_Congo.png",
-    "away_flag_local": "img/flags/Uzbekistan.png"
+    "away_flag_local": "img/flags/Uzbekistan.png",
+    "group": "Bảng L"
   },
   {
     "id": "71",
@@ -2531,29 +2321,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-27T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1532.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/775.png?v=1",
     "home_flag_local": "img/flags/Algeria.png",
-    "away_flag_local": "img/flags/_o.png"
+    "away_flag_local": "img/flags/_o.png",
+    "group": "Bảng L"
   },
   {
     "id": "72",
@@ -2567,35 +2354,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-27T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1548.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/26.png?v=1",
     "home_flag_local": "img/flags/Jordan.png",
-    "away_flag_local": "img/flags/Argentina.png"
+    "away_flag_local": "img/flags/Argentina.png",
+    "group": "Bảng L"
   },
   {
     "id": "73",
     "home_team": "Nam Phi",
     "away_team": "Canada",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 0,
     "away_score": 1,
@@ -2603,35 +2387,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-28T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1531.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/5529.png?v=1",
     "home_flag_local": "img/flags/Nam_Phi.png",
-    "away_flag_local": "img/flags/Canada.png"
+    "away_flag_local": "img/flags/Canada.png",
+    "group": null
   },
   {
     "id": "74",
     "home_team": "Brazil",
     "away_team": "Nhật Bản",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 2,
     "away_score": 1,
@@ -2639,35 +2420,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "https://sv1.tieulamwc.net/truc-tiep/brazil-vs-norway-8yomo4h14yjkq0j"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-29T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/6.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/12.png?v=1",
     "home_flag_local": "img/flags/Brazil.png",
-    "away_flag_local": "img/flags/Nh_t_B_n.png"
+    "away_flag_local": "img/flags/Nh_t_B_n.png",
+    "group": null
   },
   {
     "id": "75",
     "home_team": "Đức",
     "away_team": "Paraguay",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
@@ -2675,35 +2453,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-29T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/25.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2380.png?v=1",
     "home_flag_local": "img/flags/__c.png",
-    "away_flag_local": "img/flags/Paraguay.png"
+    "away_flag_local": "img/flags/Paraguay.png",
+    "group": null
   },
   {
     "id": "76",
     "home_team": "Hà Lan",
     "away_team": "Morocco",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
@@ -2711,35 +2486,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-29T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1118.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/31.png?v=1",
     "home_flag_local": "img/flags/H__Lan.png",
-    "away_flag_local": "img/flags/Morocco.png"
+    "away_flag_local": "img/flags/Morocco.png",
+    "group": null
   },
   {
     "id": "77",
     "home_team": "Bờ Biển Ngà",
     "away_team": "Na Uy",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 1,
     "away_score": 2,
@@ -2747,35 +2519,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-30T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1501.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1090.png?v=1",
     "home_flag_local": "img/flags/B__Bi_n_Ng_.png",
-    "away_flag_local": "img/flags/Na_Uy.png"
+    "away_flag_local": "img/flags/Na_Uy.png",
+    "group": null
   },
   {
     "id": "78",
     "home_team": "Pháp",
     "away_team": "Thụy Điển",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 3,
     "away_score": 0,
@@ -2783,35 +2552,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-30T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/5.png?v=1",
     "home_flag_local": "img/flags/Ph_p.png",
-    "away_flag_local": "img/flags/Th_y__i_n.png"
+    "away_flag_local": "img/flags/Th_y__i_n.png",
+    "group": null
   },
   {
     "id": "79",
     "home_team": "Mexico",
     "away_team": "Ecuador",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 2,
     "away_score": 0,
@@ -2819,35 +2585,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "https://sv1.tieulamwc.net/truc-tiep/mexico-vs-england-6ypq3nhvnkdzmd7"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-30T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/16.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2382.png?v=1",
     "home_flag_local": "img/flags/Mexico.png",
-    "away_flag_local": "img/flags/Ecuador.png"
+    "away_flag_local": "img/flags/Ecuador.png",
+    "group": null
   },
   {
     "id": "80",
     "home_team": "Anh",
     "away_team": "CHDC Congo",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 2,
     "away_score": 1,
@@ -2855,35 +2618,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-06-30T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/10.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1508.png?v=1",
     "home_flag_local": "img/flags/Anh.png",
-    "away_flag_local": "img/flags/CHDC_Congo.png"
+    "away_flag_local": "img/flags/CHDC_Congo.png",
+    "group": null
   },
   {
     "id": "81",
     "home_team": "Bỉ",
     "away_team": "Senegal",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 3,
     "away_score": 2,
@@ -2891,35 +2651,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-01T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/1.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/13.png?v=1",
     "home_flag_local": "img/flags/B_.png",
-    "away_flag_local": "img/flags/Senegal.png"
+    "away_flag_local": "img/flags/Senegal.png",
+    "group": null
   },
   {
     "id": "82",
     "home_team": "Mỹ",
-    "away_team": "Bosnia & Herz.",
-    "stage": "Vòng 32 đội",
+    "away_team": "Bosnia &amp; Herz.",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 2,
     "away_score": 0,
@@ -2927,35 +2684,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-01T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2384.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1113.png?v=1",
     "home_flag_local": "img/flags/M_.png",
-    "away_flag_local": "img/flags/Bosnia__amp__Herz_.png"
+    "away_flag_local": "img/flags/Bosnia_ampamp;_Herz..png",
+    "group": null
   },
   {
     "id": "83",
     "home_team": "Tây Ban Nha",
     "away_team": "Áo",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 3,
     "away_score": 0,
@@ -2963,35 +2717,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-02T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/9.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/775.png?v=1",
     "home_flag_local": "img/flags/T_y_Ban_Nha.png",
-    "away_flag_local": "img/flags/_o.png"
+    "away_flag_local": "img/flags/_o.png",
+    "group": null
   },
   {
     "id": "84",
     "home_team": "Bồ Đào Nha",
     "away_team": "Croatia",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 2,
     "away_score": 1,
@@ -2999,35 +2750,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-02T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/27.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/3.png?v=1",
     "home_flag_local": "img/flags/B____o_Nha.png",
-    "away_flag_local": "img/flags/Croatia.png"
+    "away_flag_local": "img/flags/Croatia.png",
+    "group": null
   },
   {
     "id": "85",
     "home_team": "Thụy Sĩ",
     "away_team": "Algeria",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 2,
     "away_score": 0,
@@ -3035,35 +2783,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-02T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/15.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1532.png?v=1",
     "home_flag_local": "img/flags/Th_y_S_.png",
-    "away_flag_local": "img/flags/Algeria.png"
+    "away_flag_local": "img/flags/Algeria.png",
+    "group": null
   },
   {
     "id": "86",
     "home_team": "Australia",
     "away_team": "Ai Cập",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
@@ -3071,35 +2816,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-03T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/20.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/32.png?v=1",
     "home_flag_local": "img/flags/Australia.png",
-    "away_flag_local": "img/flags/Ai_C_p.png"
+    "away_flag_local": "img/flags/Ai_C_p.png",
+    "group": null
   },
   {
     "id": "87",
     "home_team": "Argentina",
     "away_team": "Cape Verde",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 3,
     "away_score": 2,
@@ -3107,35 +2849,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-03T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/26.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1533.png?v=1",
     "home_flag_local": "img/flags/Argentina.png",
-    "away_flag_local": "img/flags/Cape_Verde.png"
+    "away_flag_local": "img/flags/Cape_Verde.png",
+    "group": null
   },
   {
     "id": "88",
     "home_team": "Colombia",
     "away_team": "Ghana",
-    "stage": "Vòng 32 đội",
+    "stage": "Vòng 1/16",
     "status": "finished",
     "home_score": 1,
     "away_score": 0,
@@ -3143,35 +2882,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-03T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/8.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1504.png?v=1",
     "home_flag_local": "img/flags/Colombia.png",
-    "away_flag_local": "img/flags/Ghana.png"
+    "away_flag_local": "img/flags/Ghana.png",
+    "group": null
   },
   {
     "id": "89",
     "home_team": "Canada",
     "away_team": "Morocco",
-    "stage": "Vòng 16 đội",
+    "stage": "Vòng 1/8",
     "status": "finished",
     "home_score": 0,
     "away_score": 3,
@@ -3179,35 +2915,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-04T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/5529.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/31.png?v=1",
     "home_flag_local": "img/flags/Canada.png",
-    "away_flag_local": "img/flags/Morocco.png"
+    "away_flag_local": "img/flags/Morocco.png",
+    "group": null
   },
   {
     "id": "90",
     "home_team": "Paraguay",
     "away_team": "Pháp",
-    "stage": "Vòng 16 đội",
+    "stage": "Vòng 1/8",
     "status": "finished",
     "home_score": 0,
     "away_score": 1,
@@ -3215,35 +2948,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "https://xoilaczzccz.tv/video/full-match-paraguay-vs-phap-0400-05-07/"
+      "replay": "https://youtube.com/fifa"
     },
     "date": "2026-07-04T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2380.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/2.png?v=1",
     "home_flag_local": "img/flags/Paraguay.png",
-    "away_flag_local": "img/flags/Ph_p.png"
+    "away_flag_local": "img/flags/Ph_p.png",
+    "group": null
   },
   {
     "id": "91",
     "home_team": "Brazil",
     "away_team": "Na Uy",
-    "stage": "Vòng 16 đội",
+    "stage": "Vòng 1/8",
     "status": "finished",
     "home_score": 1,
     "away_score": 2,
@@ -3251,35 +2981,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "https://sv1.tieulamwc.net/truc-tiep/brazil-vs-norway-8yomo4h14yjkq0j"
-        },
-        {
-          "name": "Link 2",
-          "url": "https://xoilaczzccz.tv/truc-tiep/brazil-vs-na-uy-luc-0300-ngay-06-07-2026/link/1/"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-05T20:00:00.000Z",
+    "date": "2026-07-05T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/6.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1090.png?v=1",
     "home_flag_local": "img/flags/Brazil.png",
-    "away_flag_local": "img/flags/Na_Uy.png"
+    "away_flag_local": "img/flags/Na_Uy.png",
+    "group": null
   },
   {
     "id": "92",
     "home_team": "Mexico",
     "away_team": "Anh",
-    "stage": "Vòng 16 đội",
+    "stage": "Vòng 1/8",
     "status": "finished",
     "home_score": 2,
     "away_score": 3,
@@ -3287,35 +3014,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "https://sv1.tieulamwc.net/truc-tiep/mexico-vs-england-6ypq3nhvnkdzmd7"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-06T00:00:00.000Z",
+    "date": "2026-07-05T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/16.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/10.png?v=1",
     "home_flag_local": "img/flags/Mexico.png",
-    "away_flag_local": "img/flags/Anh.png"
+    "away_flag_local": "img/flags/Anh.png",
+    "group": null
   },
   {
     "id": "93",
     "home_team": "Bồ Đào Nha",
     "away_team": "Tây Ban Nha",
-    "stage": "Vòng 16 đội",
+    "stage": "Vòng 1/8",
     "status": "finished",
     "home_score": 0,
     "away_score": 1,
@@ -3323,35 +3047,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-06T19:00:00.000Z",
+    "date": "2026-07-06T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/27.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/9.png?v=1",
     "home_flag_local": "img/flags/B____o_Nha.png",
-    "away_flag_local": "img/flags/T_y_Ban_Nha.png"
+    "away_flag_local": "img/flags/T_y_Ban_Nha.png",
+    "group": null
   },
   {
     "id": "94",
     "home_team": "Mỹ",
     "away_team": "Bỉ",
-    "stage": "Vòng 16 đội",
+    "stage": "Vòng 1/8",
     "status": "finished",
     "home_score": 1,
     "away_score": 4,
@@ -3359,35 +3080,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-07T00:00:00.000Z",
+    "date": "2026-07-06T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2384.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/1.png?v=1",
     "home_flag_local": "img/flags/M_.png",
-    "away_flag_local": "img/flags/B_.png"
+    "away_flag_local": "img/flags/B_.png",
+    "group": null
   },
   {
     "id": "95",
     "home_team": "Argentina",
     "away_team": "Ai Cập",
-    "stage": "Vòng 16 đội",
+    "stage": "Vòng 1/8",
     "status": "finished",
     "home_score": 3,
     "away_score": 2,
@@ -3395,35 +3113,32 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-07T16:00:00.000Z",
+    "date": "2026-07-06T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/26.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/32.png?v=1",
     "home_flag_local": "img/flags/Argentina.png",
-    "away_flag_local": "img/flags/Ai_C_p.png"
+    "away_flag_local": "img/flags/Ai_C_p.png",
+    "group": null
   },
   {
     "id": "96",
     "home_team": "Thụy Sĩ",
     "away_team": "Colombia",
-    "stage": "Vòng 16 đội",
+    "stage": "Vòng 1/8",
     "status": "finished",
     "home_score": 0,
     "away_score": 0,
@@ -3431,29 +3146,26 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-07T20:00:00.000Z",
+    "date": "2026-07-07T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/15.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/8.png?v=1",
     "home_flag_local": "img/flags/Th_y_S_.png",
-    "away_flag_local": "img/flags/Colombia.png"
+    "away_flag_local": "img/flags/Colombia.png",
+    "group": null
   },
   {
     "id": "97",
@@ -3467,280 +3179,256 @@
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-09T20:00:00.000Z",
+    "date": "2026-07-09T17:00:00.000Z",
     "home_flag": "https://is.vnecdn.net/objects/teams/2.png?v=1",
     "away_flag": "https://is.vnecdn.net/objects/teams/31.png?v=1",
     "home_flag_local": "img/flags/Ph_p.png",
-    "away_flag_local": "img/flags/Morocco.png"
+    "away_flag_local": "img/flags/Morocco.png",
+    "group": null
   },
   {
     "id": "98",
-    "home_team": "Thắng trận 93",
-    "away_team": "Thắng trận 94",
+    "home_team": "Tây Ban Nha",
+    "away_team": "Bỉ",
     "stage": "Tứ kết",
-    "status": "upcoming",
-    "home_score": null,
-    "away_score": null,
+    "status": "finished",
+    "home_score": 2,
+    "away_score": 1,
     "stadium": "TBD",
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-10T19:00:00.000Z",
-    "home_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "away_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "home_flag_local": "img/flags/Thắng_trận_93.png",
-    "away_flag_local": "img/flags/Thắng_trận_94.png"
+    "date": "2026-07-10T17:00:00.000Z",
+    "home_flag": "https://is.vnecdn.net/objects/teams/9.png?v=1",
+    "away_flag": "https://is.vnecdn.net/objects/teams/1.png?v=1",
+    "home_flag_local": "img/flags/T_y_Ban_Nha.png",
+    "away_flag_local": "img/flags/B_.png",
+    "group": null
   },
   {
     "id": "99",
-    "home_team": "Thắng trận 91",
-    "away_team": "Thắng trận 92",
+    "home_team": "Na Uy",
+    "away_team": "Anh",
     "stage": "Tứ kết",
-    "status": "upcoming",
-    "home_score": null,
-    "away_score": null,
+    "status": "finished",
+    "home_score": 1,
+    "away_score": 2,
     "stadium": "TBD",
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-11T21:00:00.000Z",
-    "home_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "away_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "home_flag_local": "img/flags/Thắng_trận_91.png",
-    "away_flag_local": "img/flags/Thắng_trận_92.png"
+    "date": "2026-07-11T17:00:00.000Z",
+    "home_flag": "https://is.vnecdn.net/objects/teams/1090.png?v=1",
+    "away_flag": "https://is.vnecdn.net/objects/teams/10.png?v=1",
+    "home_flag_local": "img/flags/Na_Uy.png",
+    "away_flag_local": "img/flags/Anh.png",
+    "group": null
   },
   {
     "id": "100",
-    "home_team": "Thắng trận 95",
-    "away_team": "Thắng trận 96",
+    "home_team": "Argentina",
+    "away_team": "Thụy Sĩ",
     "stage": "Tứ kết",
-    "status": "upcoming",
-    "home_score": null,
-    "away_score": null,
+    "status": "finished",
+    "home_score": 3,
+    "away_score": 1,
     "stadium": "TBD",
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-12T01:00:00.000Z",
-    "home_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "away_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "home_flag_local": "img/flags/Thắng_trận_95.png",
-    "away_flag_local": "img/flags/Thắng_trận_96.png"
+    "date": "2026-07-11T17:00:00.000Z",
+    "home_flag": "https://is.vnecdn.net/objects/teams/26.png?v=1",
+    "away_flag": "https://is.vnecdn.net/objects/teams/15.png?v=1",
+    "home_flag_local": "img/flags/Argentina.png",
+    "away_flag_local": "img/flags/Th_y_S_.png",
+    "group": null
   },
   {
     "id": "101",
-    "home_team": "Thắng trận 97",
-    "away_team": "Thắng trận 98",
+    "home_team": "Pháp",
+    "away_team": "Tây Ban Nha",
     "stage": "Bán kết",
-    "status": "upcoming",
-    "home_score": null,
-    "away_score": null,
+    "status": "finished",
+    "home_score": 0,
+    "away_score": 2,
     "stadium": "TBD",
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-14T19:00:00.000Z",
-    "home_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "away_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "home_flag_local": "img/flags/Thắng_trận_97.png",
-    "away_flag_local": "img/flags/Thắng_trận_98.png"
+    "date": "2026-07-14T17:00:00.000Z",
+    "home_flag": "https://is.vnecdn.net/objects/teams/2.png?v=1",
+    "away_flag": "https://is.vnecdn.net/objects/teams/9.png?v=1",
+    "home_flag_local": "img/flags/Ph_p.png",
+    "away_flag_local": "img/flags/T_y_Ban_Nha.png",
+    "group": null
   },
   {
     "id": "102",
-    "home_team": "Thắng trận 99",
-    "away_team": "Thắng trận 100",
+    "home_team": "Anh",
+    "away_team": "Argentina",
     "stage": "Bán kết",
-    "status": "upcoming",
-    "home_score": null,
-    "away_score": null,
+    "status": "finished",
+    "home_score": 1,
+    "away_score": 2,
     "stadium": "TBD",
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-15T19:00:00.000Z",
-    "home_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "away_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "home_flag_local": "img/flags/Thắng_trận_99.png",
-    "away_flag_local": "img/flags/Thắng_trận_100.png"
+    "date": "2026-07-15T17:00:00.000Z",
+    "home_flag": "https://is.vnecdn.net/objects/teams/10.png?v=1",
+    "away_flag": "https://is.vnecdn.net/objects/teams/26.png?v=1",
+    "home_flag_local": "img/flags/Anh.png",
+    "away_flag_local": "img/flags/Argentina.png",
+    "group": null
   },
   {
     "id": "103",
-    "home_team": "Thua trận 101",
-    "away_team": "Thua trận 102",
+    "home_team": "Pháp",
+    "away_team": "Anh",
     "stage": "Hạng ba",
-    "status": "upcoming",
-    "home_score": null,
-    "away_score": null,
+    "status": "finished",
+    "home_score": 4,
+    "away_score": 6,
     "stadium": "TBD",
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-18T21:00:00.000Z",
-    "home_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "away_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "home_flag_local": "img/flags/Thua_trận_101.png",
-    "away_flag_local": "img/flags/Thua_trận_102.png"
+    "date": "2026-07-18T17:00:00.000Z",
+    "home_flag": "https://is.vnecdn.net/objects/teams/2.png?v=1",
+    "away_flag": "https://is.vnecdn.net/objects/teams/10.png?v=1",
+    "home_flag_local": "img/flags/Ph_p.png",
+    "away_flag_local": "img/flags/Anh.png",
+    "group": null
   },
   {
     "id": "104",
-    "home_team": "Thắng trận 101",
-    "away_team": "Thắng trận 102",
+    "home_team": "Tây Ban Nha",
+    "away_team": "Argentina",
     "stage": "Chung kết",
-    "status": "upcoming",
-    "home_score": null,
-    "away_score": null,
+    "status": "finished",
+    "home_score": 1,
+    "away_score": 0,
     "stadium": "TBD",
     "links": {
       "live": [
         {
-          "name": "VTV3",
-          "url": "https://vtvgo.vn/channel/vtv3-1,3.html"
+          "name": "VTV Go",
+          "url": "https://vtvgo.vn/"
         },
         {
-          "name": "VTV6",
-          "url": "https://vtvgo.vn/channel/vtv6-1,13.html"
+          "name": "Socolive",
+          "url": "https://socolive.pro/"
         },
         {
-          "name": "Link 1",
-          "url": "#"
-        },
-        {
-          "name": "Link 2",
-          "url": "#"
+          "name": "Xoilac",
+          "url": "https://xoilac.tv/"
         }
       ],
-      "replay": "#"
+      "replay": "https://youtube.com/fifa"
     },
-    "date": "2026-07-19T19:00:00.000Z",
-    "home_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "away_flag": "https://s1.vnecdn.net/vnexpress/restruct/i/v9863/ldpr/1006784/graphics/default_thumb.png",
-    "home_flag_local": "img/flags/Thắng_trận_101.png",
-    "away_flag_local": "img/flags/Thắng_trận_102.png"
+    "date": "2026-07-19T17:00:00.000Z",
+    "home_flag": "https://is.vnecdn.net/objects/teams/9.png?v=1",
+    "away_flag": "https://is.vnecdn.net/objects/teams/26.png?v=1",
+    "home_flag_local": "img/flags/T_y_Ban_Nha.png",
+    "away_flag_local": "img/flags/Argentina.png",
+    "group": null
   }
 ]

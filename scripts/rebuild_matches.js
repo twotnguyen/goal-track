@@ -55,8 +55,8 @@ for (let i = 1; i < dayGroups.length; i++) {
         }
 
         // time and scores
-        const timeMatch = block.match(/class="ti-so"[^>]*><span class="so">([^<]+)<\/span><\/div>/);
-        const timeStr = timeMatch ? timeMatch[1].trim() : "00:00";
+        const timeMatch = block.match(/class="ti-so"[^>]*><span class="so">([\s\S]*?)<\/span><\/div>/);
+        let timeStr = timeMatch ? timeMatch[1].replace(/<[^>]*>/g, '').trim() : "00:00";
         
         let homeScore = null;
         let awayScore = null;
@@ -67,8 +67,8 @@ for (let i = 1; i < dayGroups.length; i++) {
             dateStr = `${dayKey}T${timeStr}:00+07:00`;
         } else if (timeStr.includes('-')) { // it's a score
             const parts = timeStr.split('-');
-            homeScore = parseInt(parts[0].trim(), 10);
-            awayScore = parseInt(parts[1].trim(), 10);
+            homeScore = parseInt(parts[0].trim().split('(')[0], 10);
+            awayScore = parseInt(parts[1].trim().split('(')[0], 10);
             status = 'finished';
             dateStr = `${dayKey}T00:00:00+07:00`; // Time unknown if finished and only score is shown
         }
