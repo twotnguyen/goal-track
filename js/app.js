@@ -223,28 +223,74 @@ document.addEventListener('DOMContentLoaded', () => {
         const upcomingMatches = sortedMatches.filter(m => m.status === 'upcoming' && new Date(m.date) >= now);
         let liveMatch = sortedMatches.find(m => m.status === 'live');
         
-        // 1. Next match
-        let nextMatch = liveMatch || (upcomingMatches.length > 0 ? upcomingMatches[0] : null);
-        if (nextMatch) {
-            nextMatchSection.innerHTML = generateFeaturedMatchHTML(nextMatch, 'Trận đấu tiếp theo');
-            nextMatchSection.style.display = 'block';
-        }
+        const isTournamentFinished = upcomingMatches.length === 0 && !liveMatch;
 
-        // 2. Previous match
-        const pastMatches = sortedMatches.filter(m => m.status === 'finished' || (new Date(m.date) < now && m.status !== 'live')).reverse();
-        const prevMatch = pastMatches.length > 0 ? pastMatches[0] : null;
-        if (prevMatch) {
-            prevMatchSection.innerHTML = generateFeaturedMatchHTML(prevMatch, 'Trận đấu trước đó');
-            prevMatchSection.style.display = 'block';
-        }
+        if (isTournamentFinished) {
+            // 1. Thêm Champion Banner vào trước next-match-section
+            const mainContainer = document.querySelector('main');
+            if (mainContainer && !document.querySelector('.champion-banner')) {
+                const bannerDiv = document.createElement('div');
+                bannerDiv.className = 'champion-banner';
+                bannerDiv.innerHTML = `
+                    <div class="champion-cup">🏆</div>
+                    <h2 class="champion-title">Tây Ban Nha vô địch World Cup 2026!</h2>
+                    <p class="champion-subtitle">Chiến thắng kịch tính 1 - 0 trước Argentina tại trận chung kết lịch sử.</p>
+                `;
+                mainContainer.insertBefore(bannerDiv, nextMatchSection);
+            }
 
-        // 3. 4 matches after next match
-        const upcoming4 = nextMatch && !liveMatch ? upcomingMatches.slice(1, 5) : upcomingMatches.slice(0, 4);
-        if (upcoming4.length > 0) {
-            document.getElementById('upcoming-matches-grid').className = 'compact-matches-grid';
-            upcomingMatchesGrid.innerHTML = upcoming4.map(m => generateCompactMatchListItemHTML(m)).join('');
+            // 2. Trận đấu tiêu điểm (Featured Match) - Trận Chung kết (Trận đấu cuối cùng)
+            const pastMatches = sortedMatches.filter(m => m.status === 'finished').reverse();
+            const finalMatch = pastMatches[0]; // Trận chung kết
+            if (finalMatch) {
+                nextMatchSection.innerHTML = generateFeaturedMatchHTML(finalMatch, 'Trận chung kết lịch sử');
+                nextMatchSection.style.display = 'block';
+            }
+            prevMatchSection.style.display = 'none'; // Ẩn trận đấu trước đó vì trận chung kết đã được đưa lên tiêu điểm
+
+            // 3. Hiển thị 4 trận đấu knockout cuối cùng của giải đấu
+            // Lấy 4 trận cuối cùng (Chung kết, Tranh hạng ba, 2 trận bán kết)
+            const recentKnockouts = pastMatches.slice(0, 4);
+            if (recentKnockouts.length > 0) {
+                const upcomingSection = document.getElementById('upcoming-matches-section');
+                if (upcomingSection) {
+                    const header = upcomingSection.querySelector('.date-header');
+                    if (header) {
+                        header.innerHTML = '<span class="date-bar"></span> Các trận đấu kịch tính gần đây';
+                    }
+                    upcomingSection.style.display = 'block';
+                }
+                
+                document.getElementById('upcoming-matches-grid').className = 'compact-matches-grid';
+                upcomingMatchesGrid.innerHTML = recentKnockouts.map(m => generateCompactMatchListItemHTML(m)).join('');
+            } else {
+                document.getElementById('upcoming-matches-section').style.display = 'none';
+            }
         } else {
-            document.getElementById('upcoming-matches-section').style.display = 'none';
+            // Logic bình thường khi giải đấu chưa kết thúc
+            // 1. Next match
+            let nextMatch = liveMatch || (upcomingMatches.length > 0 ? upcomingMatches[0] : null);
+            if (nextMatch) {
+                nextMatchSection.innerHTML = generateFeaturedMatchHTML(nextMatch, 'Trận đấu tiếp theo');
+                nextMatchSection.style.display = 'block';
+            }
+
+            // 2. Previous match
+            const pastMatches = sortedMatches.filter(m => m.status === 'finished' || (new Date(m.date) < now && m.status !== 'live')).reverse();
+            const prevMatch = pastMatches.length > 0 ? pastMatches[0] : null;
+            if (prevMatch) {
+                prevMatchSection.innerHTML = generateFeaturedMatchHTML(prevMatch, 'Trận đấu trước đó');
+                prevMatchSection.style.display = 'block';
+            }
+
+            // 3. 4 matches after next match
+            const upcoming4 = nextMatch && !liveMatch ? upcomingMatches.slice(1, 5) : upcomingMatches.slice(0, 4);
+            if (upcoming4.length > 0) {
+                document.getElementById('upcoming-matches-grid').className = 'compact-matches-grid';
+                upcomingMatchesGrid.innerHTML = upcoming4.map(m => generateCompactMatchListItemHTML(m)).join('');
+            } else {
+                document.getElementById('upcoming-matches-section').style.display = 'none';
+            }
         }
     };
 
