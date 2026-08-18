@@ -16,9 +16,7 @@ const generateMatches = () => {
     
     const defaultLinks = {
         live: [
-            {"name": "VTV Go", "url": "https://vtvgo.vn/"},
-            {"name": "Socolive", "url": "https://socolive.pro/"},
-            {"name": "Xoilac", "url": "https://xoilac.tv/"}
+            {"name": "VTV Go", "url": "https://vtvgo.vn/"}
         ],
         replay: "https://youtube.com/fifa"
     };

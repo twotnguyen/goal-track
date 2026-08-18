@@ -1,5 +1,5 @@
 {
-  "name": "worldcup-live-hub-2026",
+  "name": "goal-track",
   "version": "1.0.0",
   "description": "**WorldCup Live Hub 2026** là một website cập nhật nhanh thông tin các trận đấu của World Cup 2026. Dự án tập trung vào việc hiển thị lịch thi đấu sắp tới, kết quả các trận đã diễn ra, lịch sử trận đấu và các đường link liên quan để người dùng có thể theo dõi thông tin trận đấu một cách nhanh chóng, rõ ràng và tiện lợi.",
   "main": "index.js",
