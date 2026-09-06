@@ -1,9 +1,10 @@
 name: Auto Scrape World Cup Scores
 
 on:
-  schedule:
-    - cron: '0 */4 * * *' # Chạy mỗi 4 tiếng (Tuỳ chỉnh theo nhu cầu)
-  workflow_dispatch: # Cho phép bấm chạy thủ công trên giao diện GitHub
+  # Tắt tính năng tự động cào theo lịch định kỳ
+  # schedule:
+  #   - cron: '0 */4 * * *'
+  workflow_dispatch: # Cho phép bấm chạy thủ công trên giao diện GitHub khi cần
 
 jobs:
   scrape-and-update:
